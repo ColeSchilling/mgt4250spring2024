@@ -14,3 +14,10 @@ These questions are *especially* **important** because
 
 [Elon University](https://www.elon.edu)
 ![image](https://github.com/ColeSchilling/mgt4250spring2024/assets/168783532/67355b4d-a66f-4174-a137-7717a0f94200)
+
+## Data Description
+## Interpreting Visualizations
+
+![image](https://github.com/ColeSchilling/mgt4250spring2024/assets/168783532/15f1160c-abce-45a3-bb14-d6445d25b80d)
+
+## Discussion & Summary
