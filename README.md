@@ -17,7 +17,7 @@ These questions are *especially* **important** because
 
 ## Data Description
 
-https://public.tableau.com/views/test_17146889087850/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+[Link to visualizations](https://public.tableau.com/views/test_17146889087850/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Interpreting Visualizations
 
