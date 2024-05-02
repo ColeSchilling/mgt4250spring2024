@@ -1,2 +1,2 @@
-# mgt4250spring2024
-This is a repository for MGT4250 course project
+# MGT 4250 Course Project
+Author: Cole Schilling (cschilling2@elon.edu)
