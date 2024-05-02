@@ -13,3 +13,4 @@ These questions are *especially* **important** because
 3. Reason 3
 
 [Elon University](https://www.elon.edu)
+![image](https://github.com/ColeSchilling/mgt4250spring2024/assets/168783532/67355b4d-a66f-4174-a137-7717a0f94200)
