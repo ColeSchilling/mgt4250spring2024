@@ -37,6 +37,18 @@ This data was collected from numerous meteorological stations across the globe a
 
 ## Interpreting Visualizations
 
-![image](https://github.com/ColeSchilling/mgt4250spring2024/assets/168783532/15f1160c-abce-45a3-bb14-d6445d25b80d)
+1. Global Temperature Time Series
 
+  ![image](https://github.com/ColeSchilling/mgt4250spring2024/assets/168783532/b898d44e-ea09-426d-a2f6-9e5c5805deae)
+
+2. Heat Map of Global Temperature Over Time
+
+  ![image](https://github.com/ColeSchilling/mgt4250spring2024/assets/168783532/14680487-91f9-4296-abc7-f4a016122f6f)
+
+
+3. Global Temperature Tree Map
+
+  ![image](https://github.com/ColeSchilling/mgt4250spring2024/assets/168783532/cdc10abd-8396-4e49-b6fe-d9983031b4f9)
+
+  
 ## Discussion & Summary
