@@ -37,18 +37,28 @@ This data was collected from numerous meteorological stations across the globe a
 
 ## Interpreting Visualizations
 
-1. Global Temperature Time Series
+**1. Global Temperature Time Series**
 
   ![image](https://github.com/ColeSchilling/mgt4250spring2024/assets/168783532/b898d44e-ea09-426d-a2f6-9e5c5805deae)
 
-2. Heat Map of Global Temperature Over Time
+A line graph depicting global average temperatures over time provides a visual representation of how temperatures have changed throughout the years. For all of the countries, it shows that their average temperature is increasing over time, clearly illustrating the phenomenon of global warming, where average temperatures increase gradually over time. Peaks or dips in the graph may correspond to significant climate events such as volcanic eruptions, El Niño years, or industrial growth periods, providing context to the variations in global temperatures.
+
+This visualization directly answers questions about historical temperature changes by highlighting the trajectory and rate of warming. It can help identify critical periods where temperature anomalies deviate sharply from historical norms and compare them with global averages. By revealing the accelerating pace of recent warming, the graph also emphasizes the urgency for climate action and allows for correlation with other climate phenomena, such as extreme weather events or regional impacts, underscoring the broad implications of rising temperatures globally.
+
+**2. Heat Map of Global Temperature Over Time**
 
   ![image](https://github.com/ColeSchilling/mgt4250spring2024/assets/168783532/14680487-91f9-4296-abc7-f4a016122f6f)
 
+A heat map of global temperatures over time visually represents temperature changes across different geographic regions, using color gradients to depict variations. For this visualization, the hotter the average temperature is for that year, the darker the blue. On the contrary, a country with a colder temperature will be filled with an orangish color. By puting the average temperatures for each country on a map and then being able to view the average temperature across different years, we can discover patterns that may allow us to create a plan to slow down or even resolve global warming. We can also observe these patterns to identify geographic "hotspots" of rapid warming.
 
-3. Global Temperature Tree Map
+This visualization contributes to answering the question of how global average temperatures have changed by providing a spatial perspective, illustrating how warming is not uniform across the world. It highlights regions that are especially vulnerable to climate change, helping policymakers focus resources on regions facing the most severe impacts, such as rising sea levels or shifting agricultural zones. By distinguishing regions with differing trends, the heat map also reveals the influence of factors like geography, local climate policies, and industrial activities, enabling a more nuanced understanding of global climate dynamics and their regional variations.
+
+**3. Global Temperature Tree Map**
 
   ![image](https://github.com/ColeSchilling/mgt4250spring2024/assets/168783532/cdc10abd-8396-4e49-b6fe-d9983031b4f9)
 
-  
+A global temperature tree map divides geographic regions into hierarchical rectangles based on temperature data. Each rectangle's size represents the proportionate impact or contribution of a region's temperature to the overall global trend, while its color reflects the degree of warming or cooling over time. For instance, regions experiencing significant temperature increases may be shaded in darker reds or oranges, while areas with minimal or negative changes are shaded in cooler tones.
+
+This tree map contributes to understanding global temperature changes by providing a comparative visual summary of regions experiencing the most significant changes. By organizing data into a hierarchical layout, it allows viewers to quickly grasp which regions contribute most to global warming trends. For instance, the map might reveal that Arctic regions and small island nations are particularly affected, helping researchers and policymakers prioritize mitigation and adaptation strategies. It also visually represents regional disparities in climate change impact, offering insights into why some areas are more vulnerable and emphasizing the importance of focused interventions tailored to regional characteristics.
+
 ## Discussion & Summary
