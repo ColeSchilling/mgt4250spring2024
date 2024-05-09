@@ -2,7 +2,6 @@
 Author: Cole Schilling (cschilling2@elon.edu)
 
 ## Project description
-This repository is for the course project of MGT 4250 at Elon University.
 Below is the link that allows you to view the visualizations:
 
 [Link to visualizations](https://public.tableau.com/views/GlobalClimateChange_17152142057830/GlobalClimateChange?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
