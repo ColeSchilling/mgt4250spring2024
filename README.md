@@ -16,8 +16,9 @@ Below is the link that allows you to view the visualizations:
 3. The question of projected global and regional temperatures in the coming decades is crucial because it provides a predictive framework for preparing for and mitigating the impacts of climate change. Forecasting temperature changes allows policymakers, scientists, and communities to anticipate shifts in weather patterns, the frequency of extreme weather events, and the rising sea levels that could endanger coastal populations. Understanding future trends informs the creation of adaptation strategies to protect agriculture, manage water resources, and enhance infrastructure resilience. Additionally, accurate projections are fundamental for developing international climate agreements and local regulations aimed at reducing greenhouse gas emissions, ensuring that climate action is grounded in data and aligns with the urgency of the climate crisis. Ultimately, knowing where and how temperatures are likely to rise enables us to create more sustainable, proactive responses to climate change that can safeguard ecosystems, economies, and human health.
 
 ## Data Description
+Click the link below to access the data set.
 
-[Link to visualizations](https://public.tableau.com/views/test_17146889087850/Sheet1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+[Climate Data Set](https://data.world/data-society/global-climate-change-data/workspace/file?filename=GlobalLandTemperatures%2FGlobalLandTemperaturesByState.csv)
 
 ## Interpreting Visualizations
 
